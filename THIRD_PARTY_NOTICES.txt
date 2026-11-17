@@ -1,0 +1,13 @@
+AE2 RU Translation
+Original translation credit: BlackMouse74
+Project: https://www.curseforge.com/minecraft/texture-packs/ae2-ru-translation
+Published license: https://www.curseforge.com/minecraft/texture-packs/ae2-ru-translation/license
+License: MIT
+
+The accompanying MIT license notice is reproduced as published by the source project. Its copyright fields are retained verbatim. No copyright year has been supplied or inferred.
+
+Adaptation of the Russian guide for Cube Warper: Diyksfol.
+Original Cube Warper modpack: Appocryptha.
+https://www.curseforge.com/minecraft/modpacks/cube-warper
+
+Other existing Russian translations retain their respective authorship and license terms. This notice does not assign the MIT license to the entire modpack or to every file in this localization.
