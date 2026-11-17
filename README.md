@@ -57,3 +57,5 @@ https://www.curseforge.com/minecraft/texture-packs/ae2-ru-translation
 [Скачать последнюю версию](https://github.com/Diyksfol/Cube-Warper-RU-Diyksfol/releases/latest)
 
 [English](README.en.md)
+
+Cube Warper на русском. Cube Warper русификатор. Сборка модов Cube Warper. Сборка модов Cube Warper на русском. Сборка модов Cube Warper русификатор. Cube Warper ru. Cube Warper ру. Cube Warper Майнкрафт на русском. Cube Warper 1.15 RU. Cube Warper 1.15 русификатор. Cube Warper 1.15 на русском. Cube Warper 1.15 русская локализация.
